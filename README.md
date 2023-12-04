@@ -2,8 +2,7 @@
 
 ## 🛠 Skills
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="96">
 
 
 ## 🔗 Links
