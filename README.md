@@ -18,3 +18,7 @@ I am a recent graduate in Computer Science from Chiang Mai University. My hobbie
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6bItCDw_xt1e6Z2XUHC0OwUmdhfkLEBHKg&s)
+
