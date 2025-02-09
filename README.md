@@ -1,5 +1,5 @@
 # Hi, I'm Kulpitha! 🙂
-I am a recent graduate in Computer Science from Chiang Mai University. My hobbies include coding, listening to music, and visiting cafés. I specialize in back-end web development.
+I am a recent graduate in Computer Science from Chiang Mai University with a particular interest in software engineering.
 
 ## 🛠 Skills
 
